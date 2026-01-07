@@ -1,1 +1,24 @@
 .idea/
+.venv_tf/
+# Entornos virtuales comunes
+.venv/
+venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución/empacado
+build/
+dist/
+*.egg-info/
+
+# IDEs/editors
+.vscode/
+
+# Archivos temporales
+*.swp
+*~
